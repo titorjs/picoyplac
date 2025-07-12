@@ -2,6 +2,8 @@
 
 API REST para validar placa, fecha y hora contra reglas de “Pico y Placa”.
 
+Diagrama: https://s.icepanel.io/OqVC5HW8JoIDeB/MElW
+
 ---
 
 ## Prerrequisitos
